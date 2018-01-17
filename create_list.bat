@@ -1,0 +1,1 @@
+dir /b *.PNG >infofile.txt
